@@ -43,7 +43,7 @@ charadex.sheet = {
   options: {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design', 'Member Design', 'DTA Design', 'NPC'],
-    statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
+    statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased', 'Account-Bound'],
     rarity: ['All', 'Default', 'Common', 'Mutation', 'Unique', 'Event'],
     species: ['All', 'Zippet', 'Whisper', 'Warden', 'Cyclone', 'Cherribi', 'Napling'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Badge'],
