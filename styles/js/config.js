@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "ZipperBeasts",
-  url: "https://www.zipperbeasts.com",
+  url: "https://www.zipperbeasts.com/",
   description: `A placeholder masterlist of all zipperbeasts, items, and traits.`
 }
 
